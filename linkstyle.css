@@ -1,0 +1,51 @@
+/*
+     FILE ARCHIVED ON 22:00:34 Feb 2, 2002 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:44:13 Sep 20, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+SPAN.norm {
+		font-size:11px;
+}
+
+
+TD.right {
+		text-align: right;
+		font-size:11px;
+}
+
+A {
+		color: #ff6600;
+		text-decoration: none;
+}
+
+A:visited {
+		color: #ff6600;
+		text-decoration: none;
+}
+
+A:hover {
+		color: #0099ff;
+}
+
+A.sl {
+		color: #0099ff;
+		text-decoration: none;
+}
+
+A.red {
+		color: #ff0000;
+		text-decoration: none;
+}
+
+A.white {
+		font-size: 14px;
+		color: #ffffff;
+		text-decoration: none;
+}
+A.blue {
+		color: #000088;
+		text-decoration: underline;
+}
